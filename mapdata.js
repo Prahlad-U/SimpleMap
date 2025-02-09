@@ -720,9 +720,9 @@ var simplemaps_worldmap_mapdata={
       url: "https://www.seasidesustainability.org/_files/ugd/4e2629_c1c90c9604df43b5af03b580d42dea0b.pdf",
       size: "50",
       type: "marker",
-      opacity: "0.9",
       lat: -15.426,
-      lng: 28.279
+      lng: 28.279,
+      opacity: ".8"
     },
     "1": {
       name: "Rabies in Haiti",
@@ -790,7 +790,7 @@ var simplemaps_worldmap_mapdata={
       url: "https://www.seasidesustainability.org/_files/ugd/4e2629_a82091f6386042d2a61bbfa53b0b8270.pdf",
       size: "50",
       type: "marker",
-      opacity: "0.9",
+      opacity: "0.8",
       lat: -34.608,
       lng: -58.373
     },
@@ -860,7 +860,7 @@ var simplemaps_worldmap_mapdata={
       lng: "133.881",
       type: "marker",
       size: "50",
-      opacity: "0.9",
+      opacity: "0.8",
       color: "#ff0000",
       url: "https://www.seasidesustainability.org/_files/ugd/4e2629_c6b006a22f92419f9932df134ea4a11a.pdf"
     }
