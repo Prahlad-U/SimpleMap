@@ -784,6 +784,76 @@ var simplemaps_worldmap_mapdata={
       lng: 85.322,
       url: "https://www.seasidesustainability.org/_files/ugd/4e2629_60b42e8de677482a91b2f1379fa85e67.pdf"
     },
+    "11": {
+      name: "Hepatitis A in Argentina",
+      color: "#ff0000",
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_a82091f6386042d2a61bbfa53b0b8270.pdf",
+      size: "50",
+      type: "marker",
+      opacity: "0.9",
+      lat: -34.608,
+      lng: -58.373
+    },
+    "12": {
+      name: "West Nile Virus in Iran",
+      lat: 35.689,
+      lng: 51.415,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_757391f06f4945119ee0d3ff516ebbbd.pdf"
+    },
+    "13": {
+      name: "Oropouche in Cuba",
+      lat: 23.132,
+      lng: -82.367,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_83f4ade316c941a49e8cfdaf912d469c.pdf"
+    },
+    "14": {
+      name: "Leptospirosis in Seychelles",
+      lat: -20.42,
+      lng: 57.705,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_08937ca19b4140dab06b79bcbdd32f7d.pdf"
+    },
+    "15": {
+      name: "Trachoma in Sudan",
+      lat: 15.609,
+      lng: 32.536,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_7ecf29f40d804b75a7fef30421b551ff.pdf"
+    },
+    "16": {
+      name: "Pneumonia in Poland",
+      lat: 52.236,
+      lng: 21.01,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_06f0a12f163348bda59071e0ebb83d5c.pdf"
+    },
+    "17": {
+      name: "Cholera in Yemen",
+      lat: 13.977,
+      lng: 44.184,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_6528c41af539461d8d560cae54648e97.pdf"
+    },
+    "18": {
+      name: "Pertussis in Indonesia",
+      lat: -6.171,
+      lng: 106.826,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_35783a3f1ff444f184bfd8d90dbc6cd6.pdf"
+    },
+    "19": {
+      name: "Influenza in Brazil",
+      lat: -22.912,
+      lng: -43.175,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_1cc4181ace5b406597517f4a691922e2.pdf"
+    },
+    "20": {
+      name: "Lyme Disease in Maine",
+      lat: 44.318,
+      lng: -69.776,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_2d14227928b4446395bffef041a3585a.pdf"
+    },
+    "21": {
+      name: "Tuberculosis in Sierra Leone",
+      lat: 8.487,
+      lng: -13.235,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_5c010c811b4041a4bb843c0ded09431d.pdf"
+    },
     paris: {
       name: "Skin Cancer in Australia",
       lat: "-23.703",
