@@ -854,6 +854,18 @@ var simplemaps_worldmap_mapdata={
       lng: -13.235,
       url: "https://www.seasidesustainability.org/_files/ugd/4e2629_5c010c811b4041a4bb843c0ded09431d.pdf"
     },
+    "22": {
+      name: "Yellow Fever in Cyprus",
+      lat: 35.11,
+      lng: 33.944,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_6eba4034c61d4a9c957ed18182e95655.pdf"
+    },
+    "23": {
+      name: "Dengue in Thailand",
+      lat: 13.753,
+      lng: 100.505,
+      url: "https://www.seasidesustainability.org/_files/ugd/4e2629_c764ed59f72d492cadbd39648e81bb6e.pdf"
+    },
     paris: {
       name: "Skin Cancer in Australia",
       lat: "-23.703",
@@ -908,7 +920,8 @@ var simplemaps_worldmap_mapdata={
         "TT",
         "US",
         "UY",
-        "VE"
+        "VE",
+        "GF"
       ],
       color: "#eb6e6e"
     },
@@ -996,7 +1009,9 @@ var simplemaps_worldmap_mapdata={
         "UA",
         "GB",
         "UZ",
-        "GL"
+        "GL",
+        "XK",
+        "NL"
       ],
       color: "#50d9dd"
     },
